@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naclacframework/naclac-client/main/assets/naclac-logo.png" alt="Naclac Framework Logo" width="250" />
+</p>
+
 # @naclac/client
 
 The official TypeScript SDK for the **Naclac** framework. `@naclac/client` provides a fluent, highly intuitive developer experience for interacting with Naclac programs on Solana.
